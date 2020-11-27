@@ -1,4 +1,4 @@
-### Monte Carlo Localization C++
+# Monte Carlo Localization C++
 
 You will be able to observe the MCL in action through the generated images.
 
